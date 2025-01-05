@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "id_hoge",
+        "name": "hogehoge",
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            133.99750310783492,
+            34.70923340747743
+          ],
+          [
+            134.00110285553552,
+            34.717025530989986
+          ],
+          [
+            134.00776043261897,
+            34.71193329266262
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}

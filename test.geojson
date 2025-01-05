@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "id": "id_hoge",
-        "name": "hogehoge",
+        "name": "hogehoge"
       },
       "geometry": {
         "coordinates": [
